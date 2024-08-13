@@ -55,7 +55,7 @@ pip install pandas numpy matplotlib seaborn
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/google-play-store-eda-feature-engineering.git
+   [git clone https://github.com/yourusername/google-play-store-eda-feature-engineering.git](https://github.com/ali-samin/DataAnalysis/tree/main/EDA_and_Feature_Engineering/Google_PlayStore_Appdata)
    cd google-play-store-eda-feature-engineering
    ```
 
